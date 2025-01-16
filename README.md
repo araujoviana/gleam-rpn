@@ -1,4 +1,4 @@
-# rpn
+# gleam-rpn
 
 An imperfect Reverse Polish Notation calculator
 
