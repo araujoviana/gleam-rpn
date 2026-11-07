@@ -1,3 +1,5 @@
+> 📦 **Archived (November 2026).** An unfinished Reverse Polish Notation calculator, written as an exercise to learn Gleam (January 2025). Kept as a read-only record of what I was working on at the time; it is no longer maintained.
+
 # gleam-rpn
 
 An imperfect Reverse Polish Notation calculator
